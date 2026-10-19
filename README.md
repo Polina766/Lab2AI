@@ -9,7 +9,7 @@
 ## Как запустить
 1. Клонировать репозиторий:
    ```
-   git clone `https://github.com/Polina766/Lab2AI.git`
+   git clone <https://github.com/Polina766/Lab2AI.git>
    ```
 2. Unity Hub → **Add → Add project from disk** → выбрать папку проекта.
 3. Открыть проект, в окне Project открыть сцену `Assets/Scenes/SampleScene.unity`.
